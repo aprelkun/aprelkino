@@ -1,4 +1,4 @@
-# aprelkino
+# Aprel Kino
 
 Официальный сайт:
 https://kinolenta.aprelteam.su
