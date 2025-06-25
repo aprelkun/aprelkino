@@ -1,15 +1,9 @@
 # Aprel Kino
 
-Официальный сайт:
-https://kinolenta.aprelteam.su
+> - https://kinolenta.aprelteam.su
+> - https://github.com/aprelkun/aprelkino/releases
+> - https://forum.aprelteam.su/meow/aprel-kino/?id=6
+> - https://soft.aprelteam.su/android/1-aprelkino.html
+> - https://soft.aprelteam.su/windows/2-aprelkino.html
 
-Aprel Kino на Aprel Forum:
-https://forum.aprelteam.su/meow/aprel-kino/?id=6
-
-Приложение Aprel Kino:
-https://forum.aprelteam.su/mur/prilozhenie-aprel-kino/?id=184
-
-Стол заказов:
-https://forum.aprelteam.su/mur/stol-зakazов/?id=69
-
-Telegram: https://t.me/olegaprel | https://t.me/olegaprelchat | https://t.me/aprelteam | https://t.me/aprelteamchat
+Aprel Team ❤️
